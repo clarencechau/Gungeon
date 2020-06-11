@@ -24,3 +24,5 @@ Check out the [Flowchart](Guides/Flowchart.pdf), [API](Guides/API.pdf), and [Cla
 **Graphics:** Star Xie, free4kwallpapers.com, and Enter the Gungeon.
 
 **Music:** ZapSplat, soundcloud.com, Super Mario, and Enter the Gungeon.
+
+**Team Members:** Clarence Chau, Albert Lai, Alex Li, Henry Ma, Aristos Theocharoulas, Star Xie
